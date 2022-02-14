@@ -25,7 +25,7 @@ url                      : "https://kklove1015.github.io"
 baseurl                  : #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/yuchan.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/chunbae.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "은다민"
   avatar           : "/assets/images/yuchan.jpg"
-  bio              : "노력의 천재 은다민 입니다 :D"
+  bio              : "노력의 천재 은다민 입니다 :D <br> C#, Java를 주력으로 개발하고 있습니다."
   location         : "Incheon"
   email            : "jeremy920829@naver.com"
   links:
     - label: "jeremy920829@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jeremy920829@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://daminkoon.tistory.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kklove1015"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/lj_chany/"
 
 # Site Footer
 footer:
