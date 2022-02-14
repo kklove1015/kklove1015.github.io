@@ -108,10 +108,10 @@ author:
   location         : "Incheon"
   email            : "jeremy920829@naver.com"
   links:
-    - label: "jeremy920829@naver.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jeremy920829@naver.com"
-    - label: "Website"
+      #url: "jeremy920829@naver.com"
+    - label: "TiStory"
       icon: "fas fa-fw fa-link"
       url: "https://daminkoon.tistory.com/"
     - label: "Twitter"
@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "jeremy920829@naver.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/kklove1015"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/lj_chany/"
 
 
 # Reading Files
@@ -277,7 +277,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts
@@ -285,6 +285,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
